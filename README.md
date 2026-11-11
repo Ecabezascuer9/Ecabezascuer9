@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ecabezascuer9
+- 👋 Hi, I’m Ecabezascuero
 - 👀 I’m interested in exploring the diverse landscape of programming languages, from the elegant intricacies of C++ to the versatile applications of Python, and beyond.
 🌱 I’m currently learning the nuances of C++ for high-performance computing, honing my skills in Python for its flexibility in web development and data analysis, and excited to venture into other languages to broaden my toolkit.
 - 💞️ I’m looking to collaborate in mastering C++ for high-performance computing and diving into Python for its flexibility in web development, data analysis, and AI applications. Eager to explore more languages to enrich my coding spectrum.
